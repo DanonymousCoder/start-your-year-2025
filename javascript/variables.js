@@ -10,4 +10,4 @@ let foo1 = "Hi";
 }
 
 // But foo3 and foo4 cannot be called here.
-console.log(foo1, foo2, foo3, foo4)
+console.log(foo1, foo2)
